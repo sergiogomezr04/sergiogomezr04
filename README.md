@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sergiogomezr04/sergiogomezr04/main/banner.png" />
+  <img src="https://raw.githubusercontent.com/sergiogomezr04/sergiogomezr04/main/banner.jpg" />
 </p>
 
 <h1 align="center">👋 ¡Hola! Soy Sergio Gómez Rosa</h1>
