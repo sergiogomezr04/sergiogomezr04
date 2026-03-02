@@ -46,13 +46,13 @@ Actualmente sigo mejorando mis habilidades en:
 
 ## 📌 Proyectos Destacados
 
-🔹 **Trabajo Fin de Grado - Clínica Veterinaria**  
+🔹 **[Trabajo Fin de Grado - Clínica Veterinaria](https://github.com/sergiogomezr04/Trabajo-Fin-de-Grado-Clinica-Veterinaria)**  
 Aplicación web completa con arquitectura MVC para la gestión integral de una clínica veterinaria.
 
-🔹 **Proyecto DWEC - Veterinarios García**  
+🔹 **[Proyecto DWEC - Veterinarios García](https://github.com/sergiogomezr04/DWEC-Proyecto-Final-Veterinarios-Garcia)**  
 Aplicación web con Node.js, Express y SQLite con sistema de autenticación y roles.
 
-🔹 **Trabajo MVC**  
+🔹 **[Trabajo MVC](https://github.com/sergiogomezr04/Trabajo-MVC)**  
 Proyecto práctico enfocado en la correcta implementación del patrón Modelo-Vista-Controlador.
 
 🔹 **Proyectos de Inteligencia Artificial (en progreso)**  
